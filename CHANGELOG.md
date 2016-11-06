@@ -952,7 +952,7 @@ Features:
   - lazy load YAML, allowing Psych to be specified in the Gemfile
   - significant performance improvements (@cheald, #2181)
   - `inject` command for scripted Gemfile additions (Engine Yard)
-  - :github option uses slashless arguements as repo owner (@rking)
+  - :github option uses slashless arguments as repo owner (@rking)
   - `open` suggests gem names for typos (@jdelStrother)
   - `update` reports non-existent gems (@jdelStrother)
   - `gem` option --test can generate rspec stubs (@MafcoCinco)
