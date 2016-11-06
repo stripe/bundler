@@ -952,7 +952,7 @@ Features:
   - lazy load YAML, allowing Psych to be specified in the Gemfile
   - significant performance improvements (@cheald, #2181)
   - `inject` command for scripted Gemfile additions (Engine Yard)
-  - :github option uses slashless arguements as repo owner (@rking)
+  - :github option uses slashless arguments as repo owner (@rking)
   - `open` suggests gem names for typos (@jdelStrother)
   - `update` reports non-existent gems (@jdelStrother)
   - `gem` option --test can generate rspec stubs (@MafcoCinco)
@@ -1427,7 +1427,7 @@ Bugfixes:
 
 Features:
 
-  - Compatability with Rubygems 1.8.10 installer changes
+  - Compatibility with Rubygems 1.8.10 installer changes
   - Report gem installation failures clearly (@rwilcox, #1380)
   - Useful error for cap and vlad on first deploy (@nexmat, @kirs)
 
@@ -2177,7 +2177,7 @@ Bugfixes:
   - make the tests platform agnostic so we can confirm that they're green on JRuby
   - fixes for Ruby 1.9
 
-## 0.9.5 (Feburary 12, 2010)
+## 0.9.5 (February 12, 2010)
 
 Features:
 

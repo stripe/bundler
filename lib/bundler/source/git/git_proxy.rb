@@ -45,7 +45,7 @@ module Bundler
 
         def revision
           @revision ||= allowed_in_path do
-            msg = "Ref '#{ref}' was not found. Perhaps you mispelled it?"
+            msg = "Ref '#{ref}' was not found. Perhaps you misspelled it?"
             git("rev-parse --verify #{ref}", true, msg).strip
           end
         end
