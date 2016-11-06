@@ -1427,7 +1427,7 @@ Bugfixes:
 
 Features:
 
-  - Compatability with Rubygems 1.8.10 installer changes
+  - Compatibility with Rubygems 1.8.10 installer changes
   - Report gem installation failures clearly (@rwilcox, #1380)
   - Useful error for cap and vlad on first deploy (@nexmat, @kirs)
 
