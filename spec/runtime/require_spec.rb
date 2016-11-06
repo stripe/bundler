@@ -170,7 +170,7 @@ describe "Bundler.require" do
       expect(err).to be_empty
     end
 
-    it "does not mangle explictly given requires" do
+    it "does not mangle explicitly given requires" do
       gemfile <<-G
         path "#{lib_path}"
         gem 'jquery-rails', :require => 'jquery-rails'
