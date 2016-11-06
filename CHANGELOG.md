@@ -2177,7 +2177,7 @@ Bugfixes:
   - make the tests platform agnostic so we can confirm that they're green on JRuby
   - fixes for Ruby 1.9
 
-## 0.9.5 (Feburary 12, 2010)
+## 0.9.5 (February 12, 2010)
 
 Features:
 
